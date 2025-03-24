@@ -1,5 +1,5 @@
 # What's this about?
-Hi! If you are here you it is probably because either: <br/>
+Hi! If you are here it is probably because either: <br/>
 <br/>
 **a)** You found my other repos for games of mine and got curious. <br/>
 **b)** I'm looking for a job and I'm one of your candidates.
